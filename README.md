@@ -1,2 +1,3 @@
 # python_learning
-python learning
+
+Life is short, you should learn pyhton!
